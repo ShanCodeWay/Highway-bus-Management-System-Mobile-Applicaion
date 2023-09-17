@@ -14,7 +14,7 @@ Before booking a ticket, passengers must log in or sign up. If the signup is suc
 Role: Full Stack Developer
 
 
-# Output
+# Outputs
 
 ![page 1](https://github.com/tharushi99k/Highway-bus-Management-System-Mobile-Applicaion/assets/121074201/8c60580c-7845-430f-9cb1-89c567a690c1)
 
